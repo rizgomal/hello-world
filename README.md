@@ -2,4 +2,4 @@
 Testing Hello world
 Hello,
 
-I am a PHP Developer. I am learning Gihub :)
+I am a PHP Developer. I am learning Github :)
